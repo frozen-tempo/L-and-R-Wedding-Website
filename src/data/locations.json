@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belfast",
+        "images": ["belfast.jpg", "Belfast-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.930728912353516, 54.596334479736115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donegal",
+        "images": ["Donegal.JPG", "Donegal-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.109970092773438, 54.65456999592224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York",
+        "images": ["New-York.jpeg", "New-York-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.97472381591797, 40.76780169022038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windsor",
+        "images": ["Windsor.jpeg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.6444811820983887, 51.478589907886736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London",
+        "images": ["London.jpg", "London-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1272869110107422, 51.510558723334285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxford",
+        "images": ["Oxford.jpeg", "Oxford-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2615770101547241, 51.754316451609384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copenhagen",
+        "images": ["copenhagen.jpg", "Copenhagen-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.569046020507812, 55.68590756259903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cellardyke",
+        "images": ["cellardyke.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6864254474639893, 56.22566058354874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangkok",
+        "images": ["bangkok.jpg", "Bangkok-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.49571990966797, 13.751223999796816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hua Hin",
+        "images": ["Hua-hin.JPG", "Hua-hin-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.95361328125, 12.565286943988024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maidenhead",
+        "images": ["Maidenhead.JPG", "Maidenhead-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7084625959396361, 51.52988376629915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris",
+        "images": ["Paris.jpeg", "Paris-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3486709594726562, 48.85545400732256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornwall",
+        "images": ["Cornwall.jpg", "Cornwall-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.210853576660156, 50.40786111765567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle",
+        "images": ["Newcastle.jpeg", "Newcastle-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6132736206054688, 54.97446103959508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isle of Wight",
+        "images": ["Isle-of-Wight.jpg", "Isle-of-wight-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2936401367187498, 50.67165944582481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glasgow",
+        "images": ["Glasgow-1.JPG", "Glasgow-2.jpeg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.247932434082031, 55.86124829944651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabi",
+        "images": ["Krabi.jpg", "Krabi-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.91540527343749, 8.053790678898539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phi Phi Island",
+        "images": ["Phi-Phi.jpeg", "Phi-phi-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.77687454223633, 7.750710268798558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brighton",
+        "images": ["brighton.jpg", "Brighton-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1373291015625, 50.819818262156545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin",
+        "images": ["Dublin.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.259117126464844, 53.34706727480737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalgety Bay",
+        "images": ["dalgety-bay.jpg", "dalgety-bay-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.3689211799702417, 56.03576428619513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coney Island",
+        "images": ["Coney-Island.jpg", "Coney-Island-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.982872, 40.5748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malmo",
+        "images": ["Malmo-1.jpg", "Malmo-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.00073, 55.60587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh",
+        "images": ["Edinburgh.jpg", "edinburgh-2.jpg"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.188267, 55.953251]
+      }
+    }
+  ]
+}

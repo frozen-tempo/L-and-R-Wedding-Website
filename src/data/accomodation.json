@@ -1,0 +1,78 @@
+{
+  "properties": [
+    {
+      "name": "Harbour View",
+      "link": "https://www.airbnb.co.uk/rooms/10957048?guests=1&adults=1&s=67&unique_share_id=bd4f38a5-3a10-4bed-b76b-0c9013bc4640",
+      "image": "harbour-view.png",
+      "guests": "6",
+      "beds": "4",
+      "location": "Anstruther"
+    },
+
+    {
+      "name": "Dunfleein",
+      "link": "https://www.airbnb.co.uk/rooms/647843987671855322?guests=1&adults=1&s=67&unique_share_id=a0ca72be-69ea-47e5-9175-a229eae79bc2",
+      "image": "dunfleein.png",
+      "guests": "6",
+      "beds": "5",
+      "location": "St Andrews"
+    },
+
+    {
+      "name": "Nether Haven",
+      "link": "https://www.airbnb.co.uk/rooms/44409380?guests=1&adults=1&s=67&unique_share_id=747ab2ed-708b-426c-b806-bc7edc623de8",
+      "image": "nether-haven.png",
+      "guests": "6",
+      "beds": "4",
+      "location": "Cellardyke"
+    },
+
+    {
+      "name": "Sanctuary Cottage",
+      "link": "https://www.airbnb.co.uk/rooms/49459264?guests=1&adults=1&s=67&unique_share_id=74e5cf50-ed14-4bbe-82e0-f867a7efec62",
+      "image": "sanctuary-cottage.png",
+      "guests": "6",
+      "beds": "4",
+      "location": "Anstruther"
+    },
+
+    {
+      "name": "Seastay No. 21",
+      "link": "https://www.airbnb.co.uk/rooms/43968350?guests=1&adults=1&s=67&unique_share_id=d839f9a4-f8fc-4050-9919-a27901e223d0",
+      "image": "seastay.png",
+      "guests": "6",
+      "beds": "4",
+      "location": "Pittenweem"
+    },
+
+    {
+      "name": "South Gable",
+      "link": "https://www.airbnb.co.uk/rooms/52750100?guests=1&adults=1&s=67&unique_share_id=9003c698-8506-423b-bc8d-b7c6a37c6087",
+      "image": "south-gable.png",
+      "guests": "6",
+      "beds": "4",
+      "location": "Anstruther"
+    },
+
+    {
+      "name": "Waterfront Hotel",
+      "link": "https://www.anstruther-waterfront.co.uk/",
+      "image": "waterfront.jpg",
+      "location": "Anstruther"
+    },
+
+    {
+      "name": "The Bank Hotel",
+      "link": "https://www.thebank-anstruther.co.uk/",
+      "image": "bank.jpg",
+      "location": "Anstruther"
+    },
+
+    {
+      "name": "The Royal Hotel",
+      "link": "https://www.booking.com/hotel/gb/the-royal-anstruther.en-gb.html",
+      "image": "royal_hotel.jpg",
+      "location": "Anstruther"
+    }
+  ]
+}

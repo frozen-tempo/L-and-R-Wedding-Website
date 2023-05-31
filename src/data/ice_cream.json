@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Banana Caramel Rum",
+        "icon": "Banana.svg",
+        "color": "#79ac73",
+        "fontSize": "20px"
+    },
+
+    {
+        "name": "Coconut Gelato (Vg)",
+        "icon": "Coconut.svg",
+        "color": "#79ac73",
+        "fontSize": "20px"
+    },
+
+    {
+        "name": "Scottish Tablet",
+        "icon": "Tablet.svg",
+        "color": "#79ac73",
+        "fontSize": "20px"
+    },
+
+    {
+        "name": "Baileys Coffee Crunch",
+        "icon": "Baileys.svg",
+        "color": "#79ac73",
+        "fontSize": "20px"
+    },
+
+    {
+        "name": "Mango Sorbet (Vg, gf)",
+        "icon": "Mango.svg",
+        "color": "#79ac73",
+        "fontSize": "20px"
+    },
+
+    {
+        "name": "Mint and Brownie (Vg, gf)",
+        "icon": "Mint.svg",
+        "color": "#79ac73",
+        "fontSize": "20px"
+    }
+]

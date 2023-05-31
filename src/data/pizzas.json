@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Sofia",
+        "description": "Chicken and Pancetta Roasted in Maple Syrup & Rosemary with a Sprinkle of Stilton",
+        "icon": "Pizza_01.svg",
+        "color": "#79ac73",
+        "fontSize": "24px"
+    },
+
+    {
+        "name": "Guila",
+        "description": "Slow Cooked BBQ Pulled Pork with Caramelised Onions & Gorgonzola Dolce",
+        "icon": "Pizza_02.svg",
+        "color": "#79ac73",
+        "fontSize": "24px"
+    },
+
+    {
+        "name": "Serafina (V)",
+        "description": "Roasted Butternut Squash with Chilli & Caramelised Onions",
+        "icon": "Pizza_03.svg",
+        "color": "#79ac73",
+        "fontSize": "24px"
+    },
+
+    {
+        "name": "Margherita (V)",
+        "description": "Tomato sugo, Italian Mozzarella, Fresh Basil & Extra Virgin Olive Oil",
+        "icon": "Pizza_04.svg",
+        "color": "#79ac73",
+        "fontSize": "24px"
+    },
+
+    {
+        "name": "Prosciutto di Parma",
+        "description": "Tomato Sugo,  Italian Mozzarella, Basil, Prosciutto di Parma, Wild Rocket & Balsamic Glaze",
+        "icon": "Pizza_05.svg",
+        "color": "#79ac73",
+        "fontSize": "24px"
+    }
+]

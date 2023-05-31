@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ireland",
+    "longitude": -7.5029786,
+    "latitude": 53.4494762,
+    "zoom": 6
+  },
+  {
+    "name": "America",
+    "longitude": -73.97472381591797,
+    "latitude": 40.76780169022038, 
+    "zoom": 9
+  },
+  {
+    "name": "England",
+    "longitude":  -1.814036,
+    "latitude": 51.155525, 
+    "zoom": 7
+  },
+  {
+    "name": "Scotland",
+    "longitude": -3.215449,
+    "latitude": 55.576264, 
+    "zoom": 7
+  },
+  {
+    "name": "France",
+    "longitude": 2.345156,
+    "latitude": 48.868418, 
+    "zoom": 7
+  },
+  {
+    "name": "Denmark",
+    "longitude": 12.569790,
+    "latitude": 55.671432, 
+    "zoom": 9
+  },
+  {
+    "name": "Thailand",
+    "longitude": 99.732338,
+    "latitude": 11.147805 , 
+    "zoom": 6
+  }
+]
